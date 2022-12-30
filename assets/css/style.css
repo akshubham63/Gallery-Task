@@ -1,0 +1,31 @@
+.all > div {
+    height:300px;
+    border:2px solid #ccc;
+    margin:10px;
+}
+
+.orange > div {
+    background-color: orange;
+}
+
+.aqua > div {
+    background-color: aqua;
+}
+
+.Lavender > div {
+    background-color: Lavender;
+}
+
+.BlueViolet > div{
+    background-color: BlueViolet;
+}
+
+.LightGray > div {
+    background-color: LightGray;
+}
+
+.img-card{
+    height:100%;
+    width:100%;
+    object-fit: cover;
+}
